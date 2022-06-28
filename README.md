@@ -17,7 +17,7 @@
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=nextjs,html,css,javascript,typescript,tailwindcss,mongodb,github,bootstrap,git,sqlite,mysql,nodejs,react,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,vue,html,css,javascript,typescript,tailwindcss,mongodb,github,bootstrap,git,sqlite,mysql,postgres,nodejs,react,express,bash,cloudflare,discord,bots,docker,ps&theme=dark" />
 </div>
 
 <br />
