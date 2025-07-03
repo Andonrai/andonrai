@@ -8,13 +8,13 @@
    
 ## 🧐 About
 
-- Hi, I'm Andonrai.
+- Hi, I'm Jhonny.
   
 <br />
    
 ## ⚙️ Technologies I use
    
-<img src="https://skillicons.dev/icons?i=nextjs,vue,html,css,javascript,typescript,tailwindcss,mongodb,github,bootstrap,git,sqlite,mysql,postgres,nodejs,react,express,bash,cloudflare,discord,bots,docker,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,javascript,typescript,tailwindcss,mongodb,git,postgres,nodejs,react,nestjs,cloudflare,discord,docker&theme=dark" />
 </div>
 
 <br />
